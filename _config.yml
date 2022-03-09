@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Beijing-CN"
-title                    : "Yi-Fan Zhang (张一帆)"
+locale                   : "Shenzhen"
+title                    : "Feng Li"
 title_separator          : "-"
-name                     : &name "Yi-Fan Zhang"
+name                     : &name "Feng Li"
 description              : &description "The first fear Ph.D. student @CASIA, NLPR, advised by Prof. Tieniu Tan. Formerly @microsoft Research Asia."
 url                      : https://yfzhang114.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yfzhang114/yfzhang114.github.io" # TODO
+repository               : "FengLi-ust/FengLi-ust.github.io" # TODO
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yfzhang114"
+  github           : "FengLi-ust"
   google_plus      :
   keybase          :
   instagram        :
