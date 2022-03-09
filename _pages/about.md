@@ -16,8 +16,9 @@ I'm a first-year PhD student at the Hong Kong University of Science and Technolo
 
 
 # 🔥 News
-- [2022/3]: &nbsp;We release a survey Vision-Language Intelligence: Tasks, Representation Learning, and Large Models;
-- [2022/3]: &nbsp;DN-DETR: Accelerate DETR Training by Introducing Query DeNoising is accepted by CVPR 2022 with score 112;
+- \[2022/3\]: &nbsp;We build a new repo [awesome Detection Transformer](https://github.com/IDEACVR/awesome-detection-transformer) to present papers about transformer for detection and segmenttion. Welcome to your attention!
+- \[2022/3\]: &nbsp;We release a survey Vision-Language Intelligence: Tasks, Representation Learning, and Large Models;
+- \[2022/3\]: &nbsp;DN-DETR: Accelerate DETR Training by Introducing Query DeNoising is accepted by CVPR 2022 with score 112;
 
 # 📝 Publications 
 
