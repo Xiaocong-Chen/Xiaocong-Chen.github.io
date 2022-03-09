@@ -28,7 +28,7 @@ International Conference on Learning Representations (ICLR) 2022.
 [[**Paper**]](https://arxiv.org/abs/2201.12329)[[**Code**]](https://github.com/SlongLiu/DAB-DETR)
 
 * BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing.   
-Yi-Fan Zhang, Xinglin Zhang, and **Feng Li**. 
+Yi-Fan Zhang, Xinglin Zhang, and **Feng Li**.   
 IEEE Internet of Things Journal (JCR Q1).  
 [[**Paper**]](https://fengli-ust.github.io/files/BiCrowd-IOT-J.pdf)
 
