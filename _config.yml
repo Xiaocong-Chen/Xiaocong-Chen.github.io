@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Feng Li(李峰)"
   avatar           : "myphoto2.jpeg"
-  bio              : "The first fear Ph.D. student @HKUST, advised by Prof. Heung-Yeung Shum and Prof. Lionel M. Ni. Currently an Intern @IDEA."
+  bio              :   # "First-fear Ph.D. student @HKUST, advised by Prof. Heung-Yeung Shum and Prof. Lionel M. Ni. Currently an Intern @IDEA."
   location         : "Shenzhen, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
