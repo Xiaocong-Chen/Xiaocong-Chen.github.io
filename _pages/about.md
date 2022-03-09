@@ -12,7 +12,7 @@ I'm the first year PhD student at the Hong Kong University of Science and Techno
 
 **Research Interests**
 
-* Computer Vision, Object Detection, Multi-modal
+* Computer Vision, Object Detection, Multi-modal learning
 
 
 # 🔥 News
