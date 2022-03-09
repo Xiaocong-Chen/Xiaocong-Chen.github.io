@@ -10,8 +10,8 @@ locale                   : "Shenzhen"
 title                    : "Feng Li"
 title_separator          : "-"
 name                     : &name "Feng Li"
-description              : &description "The first fear Ph.D. student @CASIA, NLPR, advised by Prof. Tieniu Tan. Formerly @microsoft Research Asia."
-url                      : https://yfzhang114.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "The first fear Ph.D. student @HKUST, advised by Prof. Lionel M. Ni and Prof. Heung-Yeung Shum. Current a Intern @IDEA."
+url                      : https://FengLi-ust.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FengLi-ust/FengLi-ust.github.io" # TODO
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yi-Fan Zhang"
+  name             : "Feng Li"
   avatar           : "profile.jpg"
-  bio              : "The first fear Ph.D. student @CASIA, NLPR, advised by Prof. Tieniu Tan. Formerly @microsoft Research Asia."
+  bio              : "The first fear Ph.D. student @HKUST, advised by Prof. Lionel M. Ni and Prof. Heung-Yeung Shum. Current a Intern @IDEA."
   location         : "Beijing, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=lUnt8X4AAAAJ&hl=zh-CN"
-  email            : "yifanzhang.cs@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=ybRe9GcAAAAJ"
+  email            : "fliay@connect.ust.hk"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
