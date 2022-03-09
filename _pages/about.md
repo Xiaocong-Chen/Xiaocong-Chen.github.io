@@ -16,34 +16,40 @@ I'm the first year PhD student at the Hong Kong University of Science and Techno
 
 
 # 🔥 News
-- *2022.03*: &nbsp;🎉🎉 DN-DETR: Accelerate DETR Training by Introducing Query DeNoising is accepted by CVPR 2022 with score 112;
+- *2022.03*: &nbsp;We release a survey Vision-Language Intelligence: Tasks, Representation Learning, and Large Models;
+- *2022.03*: &nbsp;DN-DETR: Accelerate DETR Training by Introducing Query DeNoising is accepted by CVPR 2022 with score 112;
 
 # 📝 Publications 
 
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'>
+<div class='paper-box-text' markdown="1"> -->
 
-[DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.]
-Hao Zhang*, Feng Li*, Shilong Liu*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum
-arxiv 2022.
-[**Paper**](https://arxiv.org/pdf/2203.01305.pdf)[**Code**](https://github.com/FengLi-ust/DN-DETR)
+* DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.  
+Hao Zhang*, Feng Li*, Shilong Liu*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum.   
+arxiv 2022.  
+[[**Paper**]](https://arxiv.org/abs/2203.03605)[[**Code**]](https://github.com/IDEACVR/DINO)
   
-[Vision-Language Intelligence: Tasks, Representation Learning, and Large Models.]
-Feng Li*, Hao Zhang*, Yi-Fan Zhang, Shilong Liu, Jian Guo, Lionel M Ni, PengChuan Zhang, Lei Zhang
-arxiv 2022.
-[**Paper**](https://arxiv.org/pdf/2203.01305.pdf)
+* Vision-Language Intelligence: Tasks, Representation Learning, and Large Models.  
+Feng Li*, Hao Zhang*, Yi-Fan Zhang, Shilong Liu, Jian Guo, Lionel M Ni, PengChuan Zhang, Lei Zhang.     
+arxiv 2022.  
+[[**Paper**]](https://arxiv.org/abs/2203.01922)      
   
-[DN-DETR: Accelerate DETR Training by Introducing Query DeNoising] 
-Feng Li*, Hao Zhang*, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022.
-[**Paper**](https://arxiv.org/pdf/2203.01305.pdf)[**Code**](https://github.com/FengLi-ust/DN-DETR)
+* DN-DETR: Accelerate DETR Training by Introducing Query DeNoising.   
+Feng Li*, Hao Zhang*, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang.   
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022.  
+[[**Paper**]](https://arxiv.org/pdf/2203.01305)[[**Code**]](https://github.com/FengLi-ust/DN-DETR)
  
-[DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR.], Feng Li*,
-, Hao Zhang*, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang
-Shilong Liu, Feng Li, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.
-[**Paper**](https://arxiv.org/pdf/2203.01305.pdf)[**Code**](https://github.com/FengLi-ust/DN-DETR)
-</div>
-</div>
+* DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR.   
+Shilong Liu, Feng Li, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.    
+[[**Paper**]](https://arxiv.org/abs/2201.12329)[[**Code**]](https://github.com/SlongLiu/DAB-DETR)
+
+* BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing.   
+Yi-Fan Zhang, Xinglin Zhang, and Feng Li. 
+IEEE Internet of Things Journal (JCR Q1).  
+[[**Paper**]](https://fengli-ust.github.io/files/BiCrowd-IOT-J.pdf)
+
+<!-- </div>
+</div> -->
 
 _(* denotes equal contribution.)_
 # 🎖 Selected Awards
