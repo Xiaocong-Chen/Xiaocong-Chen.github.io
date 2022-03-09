@@ -1,44 +1,56 @@
 ---
 permalink: /
 title: About Me
-excerpt: "Yi-Fan Zhang's Homepage"
+excerpt: "Feng Li's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm the first year PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). I have also spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jingdongwang2017.github.io/).
+I'm the first year PhD student at the Hong Kong University of Science and Technology, advised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I am currently an intern at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/), advised by Prof. [Lei Zhang](https://www.leizhang.org/).
 
 **Research Interests**
 
-* Computer Vision: Pedestrian Re-IDentification, Object Detection, Deep Generative Models
-* Machine Learning: Causal Inference, Out of Distribution Generalization, Domain Adaptation
-* Internet of Things: CrowdSourcing, Incentive Mechanism Design
+* Computer Vision, Object Detection, Multi-modal
+
 
 # 🔥 News
-- *2022.03*: &nbsp;🎉🎉 Towards Principled Disentanglement for Domain Generalization is accepted by CVPR 2022;
+- *2022.03*: &nbsp;🎉🎉 DN-DETR: Accelerate DETR Training by Introducing Query DeNoising is accepted by CVPR 2022 with score 112;
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/DDG.png' alt="sym" width="100%"></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-[Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839), Hanlin Zhang*, Yi-Fan Zhang*, Weiyang Liu, Adrian Weller, Bernhard Schölkopf, Eric P. Xing
-
-**CVPR, 2022 |  ICML Workshop on Machine Learning for Data: Automated Creation, Privacy, Bias, 2021.** \| [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lUnt8X4AAAAJ&citation_for_view=lUnt8X4AAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | [**Code**](https://github.com/hlzhang109/DDG)
--  DDG jointly learns semantic and variation encoders for disentanglement, enabling flexible manipulation and augmentation on training data. 
+[DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.]
+Hao Zhang*, Feng Li*, Shilong Liu*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum
+arxiv 2022.
+[**Paper**](https://arxiv.org/pdf/2203.01305.pdf)[**Code**](https://github.com/FengLi-ust/DN-DETR)
+  
+[Vision-Language Intelligence: Tasks, Representation Learning, and Large Models.]
+Feng Li*, Hao Zhang*, Yi-Fan Zhang, Shilong Liu, Jian Guo, Lionel M Ni, PengChuan Zhang, Lei Zhang
+arxiv 2022.
+[**Paper**](https://arxiv.org/pdf/2203.01305.pdf)
+  
+[DN-DETR: Accelerate DETR Training by Introducing Query DeNoising] 
+Feng Li*, Hao Zhang*, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022.
+[**Paper**](https://arxiv.org/pdf/2203.01305.pdf)[**Code**](https://github.com/FengLi-ust/DN-DETR)
+ 
+[DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR.], Feng Li*,
+, Hao Zhang*, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang
+Shilong Liu, Feng Li, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.
+[**Paper**](https://arxiv.org/pdf/2203.01305.pdf)[**Code**](https://github.com/FengLi-ust/DN-DETR)
 </div>
 </div>
 
 _(* denotes equal contribution.)_
 # 🎖 Selected Awards
-* Top Ten Best Student Models of South China University of Technology, 2020
-  * Top 10 undergraduates in South China University of Technology (Summa Cum Laude)
-* Jingtang He Technology Innovation Scholarship (¥ 20000), 2020
+* Hong Kong Postgraduate Scholoarship, 2021
 * Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize, 2019.
 
-# 📖 Work experience
+<!-- # 📖 Work experience
 * March 2021 - Now: Research Assistant
   * Microsoft Research Asia, Beijing, China.
   * Duties included: 1. Design more powerful and simple object detection architecture based on the Transformer. 2. Understand NLP tasks such as NLI and exploit new paradigms to solve them more efficiently.
@@ -55,7 +67,7 @@ _(* denotes equal contribution.)_
   * Duties included: Incentive mechanism design for crowdsourcing platforms, edge computing
 platforms, and federal learning platforms.
   * Advisor: Prof. Xinglin Zhang
-
+ -->
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
