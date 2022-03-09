@@ -12,7 +12,7 @@ I'm a first-year PhD student at the Hong Kong University of Science and Technolo
 <!-- 
 **Research Interests** -->
 
-My research interests lies in machine learning, computer vision, object detection, multi-modal learning.
+My research interests lie in machine learning, computer vision, object detection, and multi-modal learning.
 
 
 # 🔥 News
