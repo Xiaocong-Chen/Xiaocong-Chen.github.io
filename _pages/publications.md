@@ -20,7 +20,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022.
 [[**Paper**]](https://arxiv.org/pdf/2203.01305)[[**Code**]](https://github.com/FengLi-ust/DN-DETR)
  
 * DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR.   
-Shilong Liu, Feng Li, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.
+Shilong Liu, Feng Li, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.   
 International Conference on Learning Representations (ICLR) 2022.    
 [[**Paper**]](https://arxiv.org/abs/2201.12329)[[**Code**]](https://github.com/SlongLiu/DAB-DETR)
 
