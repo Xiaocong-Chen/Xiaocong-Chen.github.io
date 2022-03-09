@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm the first year PhD student at the Hong Kong University of Science and Technology, advised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I am currently an intern at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/), advised by Prof. [Lei Zhang](https://www.leizhang.org/).
+I'm a first-year PhD student at the Hong Kong University of Science and Technology, advised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I am currently an intern at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/), advised by Prof. [Lei Zhang](https://www.leizhang.org/).
 
 **Research Interests**
 
