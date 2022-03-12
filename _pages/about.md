@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student at the Hong Kong University of Science and Technology, advised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I am currently an intern at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/), advised by Prof. [Lei Zhang](https://www.leizhang.org/). Previously, I obtained my bachelor’s degree from South China University of Science and Technology in 2021. 
+I'm a first-year PhD student at the Hong Kong University of Science and Technology, co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I am  an intern at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/), advised by Prof. [Lei Zhang](https://www.leizhang.org/). Previously, I obtained my bachelor’s degree from Computer Science and Technology, South China University of Science and Technology in 2021. 
 <!-- 
 **Research Interests** -->
 
@@ -25,30 +25,30 @@ My research interests lie in machine learning, computer vision, object detection
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
 
-* DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.  
+* **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection**.  
 Hao Zhang\*, **Feng Li**\*, Shilong Liu\*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum.   
 arxiv 2022.  
 [[**Paper**]](https://arxiv.org/abs/2203.03605)[[**Code**]](https://github.com/IDEACVR/DINO)
   
-* Vision-Language Intelligence: Tasks, Representation Learning, and Large Models.  
+* **Vision-Language Intelligence: Tasks, Representation Learning, and Large Models**.  
 **Feng Li**\*, Hao Zhang\*, Yi-Fan Zhang, Shilong Liu, Jian Guo, Lionel M Ni, PengChuan Zhang, Lei Zhang.     
 arxiv 2022.  
 [[**Paper**]](https://arxiv.org/abs/2203.01922)      
   
-* DN-DETR: Accelerate DETR Training by Introducing Query DeNoising.   
+* **DN-DETR: Accelerate DETR Training by Introducing Query DeNoising**.   
 **Feng Li**\*, Hao Zhang\*, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang.   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022.  
 [[**Paper**]](https://arxiv.org/pdf/2203.01305)[[**Code**]](https://github.com/FengLi-ust/DN-DETR)
  
-* DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR.   
+* **DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR**.   
 Shilong Liu, **Feng Li**, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.    
 International Conference on Learning Representations (ICLR) 2022.    
 [[**Paper**]](https://arxiv.org/abs/2201.12329)[[**Code**]](https://github.com/SlongLiu/DAB-DETR)
 
-* BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing.   
+<!-- * BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing.   
 Yi-Fan Zhang, Xinglin Zhang, and **Feng Li**.   
 IEEE Internet of Things Journal (JCR Q1).  
-[[**Paper**]](https://fengli-ust.github.io/files/BiCrowd-IOT-J.pdf)
+[[**Paper**]](https://fengli-ust.github.io/files/BiCrowd-IOT-J.pdf) -->
 
 <!-- </div>
 </div> -->
