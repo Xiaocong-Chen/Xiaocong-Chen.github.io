@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student at the Hong Kong University of Science and Technology, co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I am  an intern at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/), advised by Prof. [Lei Zhang](https://www.leizhang.org/). Previously, I obtained my bachelor’s degree from Computer Science and Technology, South China University of Science and Technology in 2021. 
+I'm a first-year PhD student at the [Department of Computer Science & Engineering](https://cse.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/), co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I am  an intern at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/), advised by Prof. [Lei Zhang](https://www.leizhang.org/). Previously, I obtained my bachelor’s degree from Computer Science and Technology, South China University of Science and Technology in 2021. 
 <!-- 
 **Research Interests** -->
 
@@ -16,9 +16,10 @@ My research interests lie in machine learning, computer vision, object detection
 
 
 # 🔥 News
-- \[2022/3\]: &nbsp;We build a new repo [awesome Detection Transformer](https://github.com/IDEACVR/awesome-detection-transformer) to present papers about transformer for detection and segmenttion. Welcome to your attention!
-- \[2022/3\]: &nbsp;We release a survey Vision-Language Intelligence: Tasks, Representation Learning, and Large Models;
-- \[2022/3\]: &nbsp;DN-DETR: Accelerate DETR Training by Introducing Query DeNoising is accepted by CVPR 2022 with score 112;
+- \[2022/3\]: &nbsp;We build a new repo [awesome Detection Transformer](https://github.com/IDEACVR/awesome-detection-transformer) to present papers about transformer for detection and segmenttion. Welcome to your attention!   
+- \[2022/3\]: &nbsp;We release a survey [Vision-Language Intelligence: Tasks, Representation Learning, and Large Models](https://arxiv.org/abs/2203.01922);
+- \[2022/3\]: &nbsp;[DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://arxiv.org/pdf/2203.01305) is accepted by CVPR 2022 with score 112;  
+- \[2022/1 \]: &nbsp;[DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR](https://arxiv.org/abs/2201.12329) is accepted by ICLR 2022;
 
 # 📝 Publications 
 
