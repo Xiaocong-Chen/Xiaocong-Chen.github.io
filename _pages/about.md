@@ -16,6 +16,7 @@ My research interests lie in machine learning, computer vision, object detection
 
 
 # 🔥 News
+- \[2022/3\]: &nbsp;Our [DN-DETR](https://arxiv.org/pdf/2203.01305) is selected for an oral presentation in CVPR2022!
 - \[2022/3\]: &nbsp;We build a new repo [awesome Detection Transformer](https://github.com/IDEACVR/awesome-detection-transformer) to present papers about transformer for detection and segmenttion. Welcome to your attention!   
 - \[2022/3\]: &nbsp;We release a survey [Vision-Language Intelligence: Tasks, Representation Learning, and Large Models](https://arxiv.org/abs/2203.01922);
 - \[2022/3\]: &nbsp;[DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://arxiv.org/pdf/2203.01305) is accepted by **CVPR 2022** with score 112;  
@@ -38,7 +39,7 @@ arxiv 2022.
   
 * **DN-DETR: Accelerate DETR Training by Introducing Query DeNoising**.   
 **Feng Li**\*, Hao Zhang\*, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang.   
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022.  
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022. **Oral** presentation.
 [[**Paper**]](https://arxiv.org/pdf/2203.01305)[[**Code**]](https://github.com/FengLi-ust/DN-DETR)
  
 * **DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR**.   
