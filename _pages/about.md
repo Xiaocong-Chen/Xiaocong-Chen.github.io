@@ -16,26 +16,40 @@ My research interests lie in machine learning, computer vision, object detection
 
 
 # 🔥 News
+- \[2023/3\]: &nbsp; Three papers accepted to CVPR 2023! Check out our [Mask DINO](https://arxiv.org/pdf/2206.02777.pdf) , [Lite DETR](https://arxiv.org/pdf/2303.07335.pdf), and [MP-Former](https://arxiv.org/pdf/2303.07336.pdf).
+- \[2023/1\]: &nbsp; Two papers accepted to ICLR 2023! Check out our [DINO](https://arxiv.org/abs/2203.0360) and [ED-Pose](https://arxiv.org/pdf/2302.01593.pdf).
 - \[2022/6\]: &nbsp;Checkout our unified detection and segmentation model [Mask DINO](https://arxiv.org/pdf/2206.02777.pdf) that achieves **SOTA** results on all the three segmentation tasks (**54.5** AP on [COCO instance leaderboard](https://paperswithcode.com/sota/instance-segmentation-on-coco-minival), **59.4** PQ on [COCO panoptic leaderboard](https://paperswithcode.com/sota/panoptic-segmentation-on-coco-minival), and **60.8** mIoU on [ADE20K semantic leaderboard](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k))! Code will be available [here](https://github.com/IDEACVR/MaskDINO).
 - \[2022/3\]: &nbsp;We release [DINO](https://arxiv.org/abs/2203.03605) that for the first time establishes a DETR-like model as a SOTA model on the [COCO object detection leaderboard](https://paperswithcode.com/sota/object-detection-on-coco) with **63.3** AP.  Code will be available [here](https://github.com/IDEACVR/DINO).
 - \[2022/3\]: &nbsp;Our [DN-DETR](https://arxiv.org/pdf/2203.01305) is selected for an **oral** presentation in **CVPR 2022**! Code is now avaliable [here](https://github.com/IDEA-opensource/DN-DETR).
 - \[2022/3\]: &nbsp;We build a new repo [awesome Detection Transformer](https://github.com/IDEACVR/awesome-detection-transformer) to present papers about transformer for detection and segmenttion. Welcome to your attention!   
 - \[2022/3\]: &nbsp;We release a survey [Vision-Language Intelligence: Tasks, Representation Learning, and Large Models](https://arxiv.org/abs/2203.01922);
-- \[2022/3\]: &nbsp;[DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://arxiv.org/pdf/2203.01305) is accepted by **CVPR 2022** with score 112;  
+- \[2022/3\]: &nbsp;[DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://arxiv.org/pdf/2203.01305) is accepted by **CVPR 2022**;  
 - \[2022/1\]: &nbsp;[DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR](https://arxiv.org/abs/2201.12329) is accepted by **ICLR 2022**;
 
 # 📝 Publications 
 
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
+* **Lite DETR: An Interleaved Multi-Scale Encoder for Efficient DETR**.  
+**Feng Li**\*, Ailing Zeng, Shilong Liu, Hao Zhang, Lei Zhang, Lionel M. Ni.   
+CVPR 2023.  
+[[**Paper**]](https://arxiv.org/pdf/2303.07335.pdf)[[**Code**]](https://github.com/IDEA-Research/Lite-DETR)
+
+* **MP-Former: Mask-Piloted Transformer for Image Segmentation**.  
+Hao Zhang\*, **Feng Li**\*, Huaizhe Xu, Shijia Huang, Shilong Liu, Lionel M. Ni, Lei Zhang.  
+CVPR 2023.  
+[[**Paper**]](https://arxiv.org/pdf/2303.07336.pdf)[[**Code**]](https://github.com/IDEA-Research/MP-Former)
+
+<!-- <div class='paper-box'>
+<div class='paper-box-text' markdown="1"> -->
 * **Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation**.  
 **Feng Li**\*, Hao Zhang\*, Huaizhe Xu, Shilong Liu, Lei Zhang, Lionel M. Ni, Heung-Yeung Shum.   
-arxiv 2022.  
+CVPR 2023.  
 [[**Paper**]](https://arxiv.org/pdf/2206.02777.pdf)[[**Code**]](https://github.com/IDEACVR/MaskDINO)
 
 * **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection**.  
 Hao Zhang\*, **Feng Li**\*, Shilong Liu\*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum.   
-arxiv 2022.  
+ICLR 2023.  
 [[**Paper**]](https://arxiv.org/abs/2203.03605)[[**Code**]](https://github.com/IDEACVR/DINO)
   
 * **Vision-Language Intelligence: Tasks, Representation Learning, and Large Models**.  
