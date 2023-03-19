@@ -26,12 +26,14 @@ My research interests lie in machine learning, computer vision, object detection
 - \[2022/3\]: &nbsp;[DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://arxiv.org/pdf/2203.01305) is accepted by **CVPR 2022**;  
 - \[2022/1\]: &nbsp;[DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR](https://arxiv.org/abs/2201.12329) is accepted by **ICLR 2022**;
 
-# 📝 Publications 
+Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAAAAJ&hl=zh-CN) for full publication list.
+
+# 📝 Selected Publications 
 
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
 * **Lite DETR: An Interleaved Multi-Scale Encoder for Efficient DETR**.  
-**Feng Li**\*, Ailing Zeng, Shilong Liu, Hao Zhang, Lei Zhang, Lionel M. Ni.   
+**Feng Li**, Ailing Zeng, Shilong Liu, Hao Zhang, Lei Zhang, Lionel M. Ni.   
 CVPR 2023.  
 [[**Paper**]](https://arxiv.org/pdf/2303.07335.pdf)[[**Code**]](https://github.com/IDEA-Research/Lite-DETR)
 
