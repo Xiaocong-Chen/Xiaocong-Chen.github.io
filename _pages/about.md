@@ -17,7 +17,7 @@ My research interests lie in machine learning, computer vision, object detection
 
 # 🔥 News
 - \[2023/4\]: &nbsp;[DINO](https://arxiv.org/abs/2203.0360) ranks **2nd** among [the most influential ICLR 2023 papers](https://www.paperdigest.org/2023/04/most-influential-iclr-papers-2023-04/).
-- \[2023/3\]: &nbsp;[DINO](https://arxiv.org/abs/2203.0360) and [DN-DETR](https://arxiv.org/pdf/2203.01305) are selected as [the top 100 most AI cited papers for 2022](https://www.zeta-alpha.com/post/must-read-the-100-most-cited-ai-papers-in-2022), rank 38 and 53, respectively.
+- \[2023/3\]: &nbsp;[DINO](https://arxiv.org/abs/2203.0360) and [DN-DETR](https://arxiv.org/pdf/2203.01305) are selected as [the top 100 most cited AI papers for 2022](https://www.zeta-alpha.com/post/must-read-the-100-most-cited-ai-papers-in-2022), rank 38 and 53, respectively.
 - \[2023/3\]: &nbsp;Three papers accepted to CVPR 2023! Check out our [Mask DINO](https://arxiv.org/pdf/2206.02777.pdf) , [Lite DETR](https://arxiv.org/pdf/2303.07335.pdf), and [MP-Former](https://arxiv.org/pdf/2303.07336.pdf).
 - \[2023/1\]: &nbsp;Two papers accepted to ICLR 2023! Check out our [DINO](https://arxiv.org/abs/2203.0360) and [ED-Pose](https://arxiv.org/pdf/2302.01593.pdf).
 - \[2022/6\]: &nbsp;Checkout our unified detection and segmentation model [Mask DINO](https://arxiv.org/pdf/2206.02777.pdf) that achieves **SOTA** results on all the three segmentation tasks ([COCO instance](https://paperswithcode.com/sota/instance-segmentation-on-coco-minival), [COCO panoptic](https://paperswithcode.com/sota/panoptic-segmentation-on-coco-minival), and [ADE20K semantic](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k))! Code is available [here](https://github.com/IDEACVR/MaskDINO).
