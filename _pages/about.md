@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year PhD (2021-now) student at the [Department of Computer Science & Engineering](https://cse.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/), co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I am  an intern at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/), advised by Prof. [Lei Zhang](https://www.leizhang.org/). Previously, I obtained my bachelor’s degree from Computer Science and Technology, South China University of Science and Technology in 2021. 
+I'm a second-year PhD (2021-now) student at the [Department of Computer Science & Engineering](https://cse.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/), co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I am  an intern at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/), advised by Prof. [Lei Zhang](https://www.leizhang.org/). Previously, I obtained my bachelor’s degree from Computer Science and Technology, South China University of Science and Technology in 2021. I am always open to research discussions and collaborations. Feel free to get in touch!
 <!-- 
 **Research Interests** -->
 
-My research interests lie in machine learning, computer vision, object detection, and multi-modal learning.
+My research interests lie in computer vision, especially in fine-grained understanding to perceive the world, like object detection, segmentation, and multi-modal learning.
 
 
 # 🔥 News
