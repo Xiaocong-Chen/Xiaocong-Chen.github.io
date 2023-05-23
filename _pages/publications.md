@@ -4,39 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<!-- <div class='paper-box'>
-<div class='paper-box-text' markdown="1"> -->
-* **Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation**.  
-**Feng Li**\*, Hao Zhang\*, Huaizhe Xu, Shilong Liu, Lei Zhang, Lionel M. Ni, Heung-Yeung Shum.   
-arxiv 2022.  
-[[**Paper**]](https://arxiv.org/pdf/2206.02777.pdf)[[**Code**]](https://github.com/IDEACVR/MaskDINO)
 
-* **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection**.  
-Hao Zhang\*, **Feng Li**\*, Shilong Liu\*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum.   
-arxiv 2022.  
-[[**Paper**]](https://arxiv.org/abs/2203.03605)[[**Code**]](https://github.com/IDEACVR/DINO)
-  
-* **Vision-Language Intelligence: Tasks, Representation Learning, and Large Models.**  
-**Feng Li**\*, Hao Zhang\*, Yi-Fan Zhang, Shilong Liu, Jian Guo, Lionel M Ni, PengChuan Zhang, Lei Zhang.     
-arxiv 2022.  
-[[**Paper**]](https://arxiv.org/abs/2203.01922)      
-  
-* **DN-DETR: Accelerate DETR Training by Introducing Query DeNoising.**   
-**Feng Li**\*, Hao Zhang\*, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang.   
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022.  
-[[**Paper**]](https://arxiv.org/pdf/2203.01305)[[**Code**]](https://github.com/FengLi-ust/DN-DETR)
- 
-* **DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR.**   
-Shilong Liu, **Feng Li**, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.    
-International Conference on Learning Representations (ICLR) 2022.    
-[[**Paper**]](https://arxiv.org/abs/2201.12329)[[**Code**]](https://github.com/SlongLiu/DAB-DETR)
+**2023**
 
-* **BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing.**   
-Yi-Fan Zhang, Xinglin Zhang, and **Feng Li**.   
-IEEE Internet of Things Journal (JCR Q1).  
-[[**Paper**]](https://fengli-ust.github.io/files/BiCrowd-IOT-J.pdf)
 
-<!-- </div>
-</div> -->
+[Learning Enhanced Representations via Contrasting for Multi-view Outlier Detection](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_9) \|  **DASFAA, 2023** \| [[Code]](https://github.com/Xiaocong-Chen/OAM-ECMOD-2023) \|
 
-_(* denotes equal contribution.)_
+_**Xiaocong Chen**, Xinye Wang, Yang Wang, Chao Han, Lei Duan_
+
+
+**2022**
+
+
+[MORO: A Multi-behavior Graph Contrast Network for Recommendation](https://link.springer.com/chapter/10.1007/978-3-031-25201-3_9) \|  **AP-Web WAIM, 2023** \| [[Code]](https://github.com/scu-kdde/Rec-MORO-2022) \|
+
+_Weipeng Jiang, Lei Duan, Xuefeng Ding, **Xiaocong Chen**_
