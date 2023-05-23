@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Shenzhen"
-title                    : "Feng Li"
+locale                   : "Chengdu, Sichuan-CN"
+title                    : "Xiaocong Chen (陈小聪)"
 title_separator          : "-"
-name                     : &name "Feng Li"
-description              : &description "The first fear Ph.D. student @HKUST, advised by Prof. Heung-Yeung Shum and Prof. Lionel M. Ni. Current an Intern @IDEA."
-url                      : https://FengLi-ust.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xiaocong Chen"
+description              : &description "The second year Master student @SCU"
+url                      : https://Xiaocong-Chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "FengLi-ust/FengLi-ust.github.io" # TODO
+repository               : "Xiaocong-Chen/Xiaocong-Chen.github.io" # TODO
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Feng Li (李峰)"
-  avatar           : "myphoto2.jpeg"
-  bio              :   # "First-fear Ph.D. student @HKUST, advised by Prof. Heung-Yeung Shum and Prof. Lionel M. Ni. Currently an Intern @IDEA."
-  location         : "Shenzhen, China"
+  name             : "Xiaocong Chen"
+  avatar           : "证件照2.png"
+  bio              : "The second year Master student @SCU"
+  location         : "Chengdu, Sichuan, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=ybRe9GcAAAAJ"
-  email            : "fliay@connect.ust.hk"
+  # googlescholar    : "https://scholar.google.com/citations?user=lUnt8X4AAAAJ&hl=zh-CN"
+  email            : "chenxiaocong@stu.scu.edu.cn"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FengLi-ust"
+  github           : "Xiaocong-Chen"
   google_plus      :
   keybase          :
   instagram        :
@@ -179,7 +179,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   cv:
-    output: false
+    output: true
     permalink: /:collection/:path/
   projects:
     output: false
