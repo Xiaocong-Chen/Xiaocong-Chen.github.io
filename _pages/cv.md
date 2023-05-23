@@ -10,15 +10,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, 2017-2021(expected)
-  * South China University of Technology
-  * Major GPA: 3.98/4.0 (Overall GPA: 3.95/4.0) (Ranking: 1/134)
+* B.S. in Internet of Things Engineering, 2017-2021(expected)
+  * Sichuan Agricultural University
+  * Major GPA: 3.92/5.0 (Ranking: 2/137)
 
 Work experience
 ======
 
 
-* March 2021 - Now: Research Assistant
+<!-- * March 2021 - Now: Research Assistant
   * Microsoft Research Asia, Beijing, China.
   * Duties included: 1. Design more powerful and simple object detection architecture based on the Transformer. 2. Understand NLP tasks such as NLI and exploit new paradigms to solve them more efficiently.
   * Advisor: Prof. [Jingdong Wang](https://jingdongwang2017.github.io/)
@@ -33,17 +33,14 @@ Work experience
   * South China University of Technology, Guangzhou, China.
   * Duties included: Incentive mechanism design for crowdsourcing platforms, edge computing
 platforms, and federal learning platforms.
-  * Advisor: Prof. Xinglin Zhang
+  * Advisor: Prof. Xinglin Zhang -->
 
 
   
 Honors and Awards
 ======
 
-* Top Ten Best Student Models of South China University of Technology, 2020
-  * The best honor for undergraduates in South China University of Technology
-  * 华南理工大学十大三好学生标兵
-* Jingtang He Technology Innovation Scholarship (¥ 20000), 2020
-* Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize, 2019.
-* National Inspirational Scholarship (¥5000, ranking: 1st / 37, 1st / 134, 1st / 134), 2018, 2019, 2020.
-* "Hong Ping Chang Qing" Technology Innovation Scholarship (¥ 3000), 2020.
+* Second-class scholarship of Sichuan University, 2021
+* National Encouragement scholarship, 2018/2019/2020
+* Outstanding graduate of universities in Sichuan Province, 2021
+* "Comprehensive Quality A-Level Certificate" for College Students in Sichuan Province, 2019
