@@ -10,9 +10,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Internet of Things Engineering, 2017-2021(expected)
+* B.S. in Internet of Things Engineering, 2017-2021(guarantee admission to graduate school)
   * Sichuan Agricultural University
   * Major GPA: 3.92/5.0 (Ranking: 2/137)
+* M.S. in Artificial Intelligence, 2021-2024(pre-graduation)
+  * Sichuan University
+  * Major GPA: 3.84/4.0
 
 Work experience
 ======
