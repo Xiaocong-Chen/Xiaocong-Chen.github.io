@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm the second year Master student at the College of Computer Science, Sichuan University, advised by Prof. [Lei Duan](https://cs.scu.edu.cn/info/1282/13558.htm).
+I'm the Third year Master student at the College of Computer Science, Sichuan University, advised by Prof. [Lei Duan](https://cs.scu.edu.cn/info/1282/13558.htm).
 
 **Research Interests**
 
@@ -48,6 +48,7 @@ Student Member for CCF (2021-2024)
 # 📖 Work experience
 <!-- * May 2022 - Now: Research Assistant on **Alibaba DAMO**.
 * March 2021 - July: Research Assistant on **Microsoft Research Asia**. -->
+* June 2023 - December: An intern on **China Nuclear Power Research and Design Institute**
 
 <!-- * August 2020 - Now: Research Assistant
   * University of Chinese Academy of Sciences, Beijing, China.
