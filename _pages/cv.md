@@ -16,6 +16,7 @@ Education
 
 Work experience
 ======
+* June 2023 - December: An intern on **China Nuclear Power Research and Design Institute**
 
 
 <!-- * March 2021 - Now: Research Assistant
